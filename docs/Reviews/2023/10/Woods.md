@@ -1,5 +1,9 @@
 # 水的完美记忆
 
+<figure markdown>
+  ![Image title](Woods.jpg){align=center width=420}
+</figure>
+
 在一次接受采访时，Jamila Woods提到，她的最新专辑的名字灵感来源于著名作家托尼·莫里森（Toni Morrison）的一句话：“All water has perfect memory and is forever trying to get back to where it is”（水拥有完美的记忆，并永远试图回到它的起点）。这句话不仅启发了专辑的命名，还成为了主要概念贯穿了整张专辑。
 
 这是Jamila Woods在印第安纳州独立唱片公司Jagjaguwar旗下的第三张专辑，名为《Water Made Us》。尽管是一位独立音乐人，Woods在专辑中却和众多同时代的音乐人展开了对话。音乐人duendita和她合作了《Tiny Garden》，Saba也助阵并演绎了《Practice》里的说唱部分。

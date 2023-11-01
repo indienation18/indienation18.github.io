@@ -4,12 +4,11 @@ theme:
   name: material
   features:
     - navigation.tabs
-  font:
-    code: Open Sans
   palette:
     primary : teal
 
-
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -30,7 +29,7 @@ nav:
   - Album Lists:
     - Consolidated Lists:
       - 2023 Year-End: ALists/Consolidated/111.md
-    - Personal List:
+    - Personal Lists:
       - 2023:
         - 某妈: ALists/Personal/2023/hello.md
   - Single Lists:
@@ -38,7 +37,7 @@ nav:
       - 2022 Year-End: SLists/Consolidated/2022E.md
       - 2021 Year-End: SLists/Consolidated/2021E.md
       - 2020 Year-End: SLists/Consolidated/2020E.md
-    - Personal List:
+    - Personal Lists:
       - 2023:
         - 某妈: SLists/Personal/2023/hello.md
   - Events:
